@@ -29,6 +29,7 @@ If you're building OpenCore for a different model than you're currently running,
 Once it finishes building, you'll want to select the Install OpenCore button:
 
 * If you created a macOS USB manually and don't see it listed, make sure it's either formatted as GUID/GPT or has a FAT32 partition for OpenCore to reside on.
+* Select the Existing internal Apple HD or the USB Drive where the Image was created on?   This is a question to know which one I should put it on.
 
 
 | Select Drive | Select Partition |
